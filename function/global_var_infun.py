@@ -18,6 +18,6 @@ def update_name():
     global name #if you want to modify name
     print('old',name)
     name='ayushi'
-    print('new',name)  #udated name
+    print('new',name)  #updated name
 update_name()
 print('new',name)
