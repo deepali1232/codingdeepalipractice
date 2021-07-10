@@ -7,3 +7,4 @@ streamlit
 plotly
 textblob
 jupyterlab
+opencv-contrib-python
