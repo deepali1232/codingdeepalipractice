@@ -2,6 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 im = cv2.imread(r'WvxJe751-7409151492.jpg')
+cv2.imshow("image",im)
 im = cv2.resize(im, (500, 500))
 
 color = ('b', 'g', 'r')
